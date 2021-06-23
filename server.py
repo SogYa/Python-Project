@@ -7,7 +7,6 @@ from PyQt5.QtWidgets import QApplication, QMainWindow
 import time
 
 import serverQt
-import clientQt
 from serverQt import *
 
 str_ = ''
